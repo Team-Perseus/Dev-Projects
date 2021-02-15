@@ -14,7 +14,7 @@
   
 ## Requirements
  * Recommended Device: 
- * Android:
+ * Android (version):
  * ABI: 
 ### Dependencies
 
