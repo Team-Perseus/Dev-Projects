@@ -11,7 +11,8 @@
 
   ### How does it works?
   ----------
-  
+    nothing
+    
 ## Requirements
  * Recommended Device: 
  * Android (version):
